@@ -8,7 +8,7 @@
 (https://m.blog.naver.com/dh3508/221816555132를 참조하여 크롤링하였습니다.)
 
 ##
-■ 프로젝트 단게
+■ 프로젝트 단계
 <크롤링하기>
 1. 제목 크롤링
 2. 가수 크롤링
@@ -23,3 +23,6 @@
 ■ 결론
 : 가장 크게 나타난 단어가 love와 know 그 다음이 christmas인것을 확인할 수 있었습니다.
 : 현재 크리스마스가 5일도 남지 않은 시점이여서 christmas가 나온것으로 추측됩니다.
+
+
+![MelonWord](https://user-images.githubusercontent.com/84650375/146873645-ec6661a5-b585-4ca1-ad14-3ec5450cab52.png)
